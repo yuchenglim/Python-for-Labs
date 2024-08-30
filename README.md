@@ -4,5 +4,5 @@ I would recommend using Excel to first check whether your data makes sense, sinc
 
 If you have found these code useful, please cite this repository.
 
-
+I am really grateful for Scipy, Numpy, Pandas, Matplotlib and openpyxl.
 
